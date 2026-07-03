@@ -1,0 +1,6 @@
+type_id	type_name
+1	PAYMENT
+2	TRANSFER
+3	CASH_OUT
+4	DEBIT
+5	CASH_IN
