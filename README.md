@@ -246,7 +246,7 @@ WHERE isFraud = 1;
 
 ## 📊 Dashboard
 
-**[View Live Dashboard on Tableau Public →](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/FraudDetectionAnalytics/FraudDetectionAnalytics)**
+![Fraud Detection Dashboard](Fraud_Detection_Dashboard.png)
 
 Dashboard includes:
 - 5 KPI cards (Total Fraud Amount, Total Transactions, Total Fraud Transactions, Average Fraud Amount, Largest Fraud Transaction)
@@ -255,6 +255,12 @@ Dashboard includes:
 - Financial Impact of Account Draining
 - Fraud Detection Coverage (Missed vs Detected)
 - Fraud Timeline Analysis
+
+---
+
+## 🗂️ ER Diagram
+
+![Entity Relationship Diagram](Fraud_Detection_ER.png)
 
 ---
 
