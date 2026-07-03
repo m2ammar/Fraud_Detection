@@ -15,6 +15,12 @@ This project performs full exploratory data analysis (EDA), database normalizati
 
 ---
 
+## 📊 Dashboard Preview
+
+![Fraud Detection Dashboard](Fraud_Detection_Dashboard.png)
+
+---
+
 ## 🎯 Objective
 
 Detect fraud patterns in mobile money transactions by:
@@ -119,6 +125,8 @@ transaction_type (lookup)
         │
         └──► transactions (central fact table) ◄──── accounts
 ```
+
+![Entity Relationship Diagram](Fraud_Detection_ER.png)
 
 **Why 3 tables:**
 - Receivers repeat heavily → `accounts` table needed
@@ -245,9 +253,7 @@ WHERE isFraud = 1;
 
 ---
 
-## 📊 Dashboard
-
-![Fraud Detection Dashboard](Fraud_Detection_Dashboard.png)
+## 📊 Dashboard Details
 
 Dashboard includes:
 - 5 KPI cards (Total Fraud Amount, Total Transactions, Total Fraud Transactions, Average Fraud Amount, Largest Fraud Transaction)
@@ -256,12 +262,6 @@ Dashboard includes:
 - Financial Impact of Account Draining
 - Fraud Detection Coverage (Missed vs Detected)
 - Fraud Timeline Analysis
-
----
-
-## 🗂️ ER Diagram
-
-![Entity Relationship Diagram](Fraud_Detection_ER.png)
 
 ---
 
