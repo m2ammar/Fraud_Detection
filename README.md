@@ -292,4 +292,4 @@ Dashboard includes:
 
 **Muhammad Ammar Saleem**
 CS/Data Science Student — KSBL Karachi
-[LinkedIn](https://linkedin.com/in/muhammad-ammar-b533a0323/) · [Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes) · [Fiverr](https://www.fiverr.com/m__ammar11)
+[LinkedIn](https://linkedin.com/in/muhammad-ammar-b533a0323/) · [Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/vizzes) 
