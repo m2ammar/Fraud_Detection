@@ -9,6 +9,7 @@
 This project performs full exploratory data analysis (EDA), database normalization, and fraud detection on the **PaySim synthetic mobile money dataset** — 6,362,620 transactions simulating real-world mobile money fraud patterns.
 
 **Tools Used:** MySQL · MySQL Workbench · Terminal (CLI) · Tableau Public
+
 **Dataset:** [PaySim — Kaggle](https://www.kaggle.com/datasets/ealaxi/paysim1)
 
 **Dashboard:** [Fraud Detection Analytics — Tableau Public](https://public.tableau.com/app/profile/muhammad.ammar.saleem/viz/FraudDetectionAnalytics/FraudDetectionAnalytics)
